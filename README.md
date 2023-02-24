@@ -10,6 +10,8 @@ Projeto utilizando APIs mostrando o clima e tempo de cidades, o objetivo do proj
 - HTML
 - CSS
 - JavaScript
+- APIs
+- Git e GitHub
 
 ## 📖 O que eu aprendi
 
